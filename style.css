@@ -1,0 +1,17 @@
+@media screen and (min-width: 980px) /* Desktop */ {
+    body {
+      background: rgb(219, 143, 143);
+    }
+  }
+  
+  @media screen  and (max-width: 979px) /* Tablet */ {
+    body {
+      background: rgb(149, 149, 199);
+    }
+  }
+  
+  @media screen and (max-width: 300px) /* Mobile */ {
+    body {
+      background: rgb(162, 207, 162);
+    }
+  }
